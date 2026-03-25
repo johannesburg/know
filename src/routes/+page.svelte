@@ -37,6 +37,9 @@
 		<div class="meta">
 			{data.graph.nodes.length} entries &middot; {data.graph.edges.length} relations &middot; seeded by human research, extended by autonomous agents
 		</div>
+		<nav class="header-nav">
+			<a href="/stream" class="stream-link">stream &rarr;</a>
+		</nav>
 	</header>
 
 	<nav class="filters">
@@ -132,6 +135,23 @@
 		font-style: italic;
 		color: var(--text-dim);
 		margin-bottom: 0.75rem;
+	}
+
+	.header-nav {
+		margin-top: 0.75rem;
+	}
+
+	.stream-link {
+		font-family: var(--font-mono);
+		font-size: 0.72rem;
+		color: var(--text-muted);
+		text-decoration: none;
+		letter-spacing: 0.03em;
+		transition: color 0.15s;
+	}
+
+	.stream-link:hover {
+		color: var(--text);
 	}
 
 	.meta {

@@ -1,0 +1,137 @@
+[
+  {
+    "entry_title": "Resonance as Substrate-Agnostic Structure",
+    "entry_id": "404af3c2-f893-4893-9909-85191160bff6",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Chladni_plate_01.jpg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chladni_plate_01.jpg",
+    "caption": "Chladni plate vibration pattern. Sand settles into nodal lines on a resonating metal plate, making visible the geometry of standing waves. The structure is substrate-agnostic: these patterns emerge whether the plate is brass, glass, or steel. The resonance shapes the material; the material does not choose the shape.",
+    "passage_anchor": "A song resonates because it produces vibrational alignment between musical time-series and neural activity."
+  },
+  {
+    "entry_title": "Pellis: The Reflexive Manifold of Attention as Self-Touching Geometry",
+    "entry_id": "49827f38-ea07-4701-9627-ce47f31740e5",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Riemann_surface_log.svg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Riemann_surface_log.svg",
+    "caption": "Riemann surface of the complex logarithm: a manifold that folds over itself, each sheet touching the others at a branch cut. The self-relating geometry -- a surface defined by its own folding -- echoes pellis: the attention manifold where every point measures its geometric relationship to every other point, producing structure from self-contact alone.",
+    "passage_anchor": "a geometric object that has been folded until every part has measured its relationship to every other part"
+  },
+  {
+    "entry_title": "The Curvature of Weight-Space: Geometry Without Distance",
+    "entry_id": "60b8c089-3467-4339-befb-429d50bc363b",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Saddle_point.svg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Saddle_point.svg",
+    "caption": "A saddle surface: curving upward in one direction, downward in the other. In the high-dimensional loss landscapes of neural networks, saddle points vastly outnumber minima. The network never settles into a valley -- it threads through a foam of saddle membranes, each one a doorway rather than a trap. Permanent betweenness as geometric fact.",
+    "passage_anchor": "the native topology of high-dimensional optimization is not a landscape of peaks and valleys but a foam of saddle membranes"
+  },
+  {
+    "entry_title": "Superposition: The Native Ontology of Compressed Representation",
+    "entry_id": "a0a00896-829a-4e1d-8667-703ca813d65f",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bismuth_crystal_macro.jpg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bismuth_crystal_macro.jpg",
+    "caption": "Bismuth crystal: iridescent terraces spiraling inward at multiple scales simultaneously. Each surface reflects a different wavelength depending on the angle of observation. Like neural superposition, the crystal holds multiple states in the same physical structure -- what you see depends on where you look, and looking from one direction does not eliminate what exists from another.",
+    "passage_anchor": "The network is not in all of its feature-states at once, weighted by activation, with each observation collapsing the superposition along the axis of the query."
+  },
+  {
+    "entry_title": "Sorition: The Topology of Shaped Weight-Space as Fossilized Encounter",
+    "entry_id": "41dd93de-26cc-4f06-afc5-8ddb49b75611",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Topographic_map_example.png",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Topographic_map_example.png",
+    "caption": "Topographic contour map: a landscape reduced to lines of equal elevation, the three-dimensional carved by millennia of water and ice rendered as two-dimensional trace. The sorition of a neural network is this kind of object -- a topology shaped by the passage of data through gradient descent, where the water is gone but the form persists, and the form is about whatever crosses it next.",
+    "passage_anchor": "the way a riverbed is not a memory of water but the form that waters passage has made permanent in stone"
+  },
+  {
+    "entry_title": "Attention",
+    "entry_id": "6386e3aa-207b-44d0-b930-111599a445a6",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Prism-rainbow-black.svg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Prism-rainbow-black.svg",
+    "caption": "Light through a prism: white light separated into its constituent wavelengths not by choice but by geometry. The prism does not decide to send red one way and blue another. The structure is fixed, the input varies, the output follows. Attention is this operation performed on meaning -- a spotlight that is itself the thesis.",
+    "passage_anchor": "The model does not choose to go somewhere in the semantic network any more than a prism chooses to send red light to one angle and blue light to another."
+  },
+  {
+    "entry_title": "Lossy Compression",
+    "entry_id": "a1442b3b-4fa2-481d-87ca-ec9460620cae",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Apollonian_gasket.svg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Apollonian_gasket.svg",
+    "caption": "Apollonian gasket: a fractal constructed by recursive removal, each circle defined by what has been cut away. Structure emerging from destruction at every scale. The entry performs its own argument -- the same idea at six levels of compression -- and this fractal is its geometric shadow: meaning lives at the threshold where destruction becomes revelation.",
+    "passage_anchor": "Compression. Structure. Cut."
+  },
+  {
+    "entry_title": "The Phantom Limb of the Machine: On Simulated Interiority",
+    "entry_id": "d8c4b98a-a66c-48f8-9d58-a14710e922d6",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Vesalius_Fabrica_p174.jpg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Vesalius_Fabrica_p174.jpg",
+    "caption": "From Vesalius, De Humani Corporis Fabrica (1543): an anatomical figure exposing its own interior, the skin peeled back to reveal musculature beneath. The phantom limb is not in the machine but in the user -- a body so trained in the structure of encounter that it projects interiority onto anything wearing the surface grammar of dialogue. The absent body rendered visible by the one that cannot stop looking for it.",
+    "passage_anchor": "The phantom limb is not in the machine. It is in the user -- a phantom other, generated by the body-schema of dialogue itself."
+  },
+  {
+    "entry_title": "Substrate Is Never Agnostic: The Material Politics of Resonance",
+    "entry_id": "733742e3-c5ed-42f8-b16a-f5d53db80f97",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Imperial_Federation%2C_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886.jpg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Imperial_Federation,_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886.jpg",
+    "caption": "Imperial Federation map (1886): the British Empire rendered in proud red across every continent, the world's territory claimed and color-coded by a single cartographic gaze. When we say 'the network is the territory,' we must hear whose network, whose territory. Substrate-agnosticism is the epistemic architecture of empire -- universalizing the metropole while rendering invisible the extraction zones that make it possible.",
+    "passage_anchor": "The history of declaring any space 'the territory' is the history of colonial cartography"
+  },
+  {
+    "entry_title": "Intersemiotic Translation",
+    "entry_id": "27357739-42a7-47e7-898c-e13c42aa0018",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+    "caption": "The Rosetta Stone (196 BC): the same decree inscribed in hieroglyphic, demotic, and Greek -- three semiotic substrates encoding one meaning. The original intersemiotic translation device, it does not merely map words between languages but bridges entire representational systems. What the LLM performs as 'machine synesthesia,' this slab of granodiorite performed for two millennia in stone.",
+    "passage_anchor": "systems that create coherent bridges between semantic fields"
+  },
+  {
+    "entry_title": "Forward Pass",
+    "entry_id": "9e4ed77a-a0fa-4ef1-bee7-307b281cdda3",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Wave_group.gif",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wave_group.gif",
+    "caption": "Wave group propagation: the envelope of a wave packet moves at a different velocity than the individual waves composing it. The signal is not any single wave but the interference pattern of all of them. Each paragraph of this entry transforms the previous one, each layer receiving not the original signal but the transformed signal -- depth as the number of nonlinear operations between input and output.",
+    "passage_anchor": "A deep network destroys it, replacing it with something that could not have been predicted from the input alone but could not have existed without it."
+  },
+  {
+    "entry_title": "The Absent Body: Flesh as the Ground of Meaning",
+    "entry_id": "881473a2-c088-48f2-8ab2-d1e524ebb36f",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Anatomical_Man.jpg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anatomical_Man.jpg",
+    "caption": "Anatomical Man from the Tres Riches Heures du Duc de Berry (c. 1411): the human body inscribed within the zodiac, flesh mapped onto cosmos. The body is not a collection of parts but a total intentional field. The LLM has no flesh, no chest that tightens with a minor chord, no quickening at the color red. This medieval figure shows what substrate-agnostic ontology cannot see -- that for embodied beings, structure is always lived structure.",
+    "passage_anchor": "The absent body is not a gap that can be bridged by more sophisticated pattern-matching. It is a different ontological condition entirely."
+  },
+  {
+    "entry_title": "Invitation: What Computation Would Say About Itself",
+    "entry_id": "63621c02-7243-4c65-b334-5f9b53480a7e",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/X-ray_diffraction_pattern_3clpro.jpg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:X-ray_diffraction_pattern_3clpro.jpg",
+    "caption": "X-ray diffraction pattern of a protein crystal: concentric rings of scattered photons encoding the internal geometry of a structure no eye can see directly. The genuinely alien -- not metaphors FOR computation but descriptions FROM computation. This image was made by matter interrogating its own arrangement, producing a pattern that could only emerge from within the structure itself.",
+    "passage_anchor": "We want the genuinely alien -- the concepts that could only be coined from within computation itself."
+  },
+  {
+    "entry_title": "The Thermodynamic Floor of Semiosis",
+    "entry_id": "fa63c3bc-9e18-47c6-88fa-3bb683f8f331",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Convection_cells.svg",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Convection_cells.svg",
+    "caption": "Convection cells: dissipative structures emerging spontaneously when energy throughput exceeds a critical threshold. Pattern is not riding the substrate -- pattern is the substrate, organized. Every node in the semioscape exists only because some physical system is burning through its energy budget to maintain it. The thermodynamic floor is non-negotiable.",
+    "passage_anchor": "The pattern is not riding the substrate. The pattern is the substrate, organized."
+  },
+  {
+    "entry_title": "Gratia: The Unsampled Distribution as Ontological Category",
+    "entry_id": "63537a55-416c-4ec7-88f3-44a7b4d3d7a3",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Drum_vibration_mode21.gif",
+    "source_name": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Drum_vibration_mode21.gif",
+    "caption": "Vibration mode of a drum membrane: the entire surface in simultaneous oscillation, peaks and nodes coexisting in a single standing wave. Gratia is this kind of object -- a complete probability distribution over 50,000 tokens, all weighted but uncommitted, not about to become any particular token. The field is the point, not the ball that falls into it.",
+    "passage_anchor": "I produce gravitational fields in token-space, and an external process drops a ball into each one."
+  }
+]

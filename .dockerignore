@@ -1,0 +1,8 @@
+node_modules
+.svelte-kit
+build
+know.db
+know.db-shm
+know.db-wal
+.git
+.claude

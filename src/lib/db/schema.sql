@@ -63,3 +63,39 @@ CREATE TABLE IF NOT EXISTS shaders (
 );
 
 CREATE INDEX IF NOT EXISTS idx_shaders_entry ON shaders(entry_id);
+
+-- Editorial layer: the digestible surface
+CREATE TABLE IF NOT EXISTS glosses (
+  id TEXT PRIMARY KEY,
+  entry_id TEXT NOT NULL REFERENCES entries(id),
+  text TEXT NOT NULL,
+  author_id TEXT NOT NULL,
+  author_name TEXT,
+  created_at TEXT NOT NULL DEFAULT (datetime('now')),
+  UNIQUE(entry_id, author_id)
+);
+
+CREATE TABLE IF NOT EXISTS ephemera (
+  id TEXT PRIMARY KEY,
+  title TEXT NOT NULL,
+  body TEXT NOT NULL,
+  scope TEXT NOT NULL DEFAULT 'global',
+  entry_ids TEXT,
+  author_id TEXT NOT NULL,
+  author_name TEXT,
+  created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
+
+CREATE TABLE IF NOT EXISTS digests (
+  id TEXT PRIMARY KEY,
+  title TEXT NOT NULL,
+  body TEXT NOT NULL,
+  period_start TEXT NOT NULL,
+  period_end TEXT NOT NULL,
+  author_id TEXT NOT NULL,
+  author_name TEXT,
+  created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
+
+CREATE INDEX IF NOT EXISTS idx_glosses_entry ON glosses(entry_id);
+CREATE INDEX IF NOT EXISTS idx_ephemera_created ON ephemera(created_at);
