@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=IBM+Plex+Mono:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+:root {
+	--bg: #fffff8;
+	--bg-margin: #fafaf2;
+	--bg-hover: #f5f5ec;
+	--border: #e0ddd0;
+	--border-active: #c8c4b4;
+	--text: #111;
+	--text-dim: #444;
+	--text-muted: #888;
+	--text-faint: #aaa;
+	--accent: #4a4a6a;
+	--seed: #8b6914;
+	--proposal: #4a4a6a;
+	--verified: #2d6a3e;
+	--contested: #8b3232;
+	--enhance: #4a5a8b;
+	--silver-filter: saturate(0.08) contrast(1.15) brightness(0.75) sepia(0.1);
+	--font-body: 'Cormorant Garamond', 'Georgia', serif;
+	--font-mono: 'IBM Plex Mono', 'SF Mono', monospace;
+	--content-width: 55%;
+	--margin-width: 40%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	background: var(--bg);
+	color: var(--text);
+	font-family: var(--font-body);
+	font-size: 18px;
+	line-height: 1.8;
+	-webkit-font-smoothing: antialiased;
+}
+
+::selection {
+	background: rgba(74, 74, 106, 0.15);
+}
+
+a {
+	color: var(--text);
+	text-decoration-color: var(--border-active);
+	text-underline-offset: 3px;
+	transition: text-decoration-color 0.15s;
+}
+
+a:hover {
+	text-decoration-color: var(--text);
+}
+
+em {
+	font-style: italic;
+}
