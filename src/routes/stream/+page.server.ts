@@ -1,5 +1,4 @@
 import { getFullGraph } from '$lib/db';
-import Database from 'better-sqlite3';
 import { readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 import type { PageServerLoad } from './$types';
@@ -7,8 +6,7 @@ import type { PageServerLoad } from './$types';
 export const load: PageServerLoad = async () => {
 	const graph = getFullGraph();
 
-	// Load editorial content from JSON files if they exist
-	const editorialDir = join(import.meta.dirname, '../../../editorial');
+	const editorialDir = join(process.cwd(), 'editorial');
 	let glosses: Record<string, string> = {};
 	let ephemera: Array<{ title: string; body: string; scope: string; related_entries?: string[] }> = [];
 	let illustrations: Array<{ entry_title: string; entry_id: string; image_url: string; source_name: string; caption: string }> = [];
